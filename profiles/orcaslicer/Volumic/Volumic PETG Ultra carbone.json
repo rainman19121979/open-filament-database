@@ -28,7 +28,7 @@
         "60"
     ],
     "filament_max_volumetric_speed": [
-        "22"
+        "20"
     ],
     "overhang_fan_speed": [
         "100"
@@ -87,8 +87,8 @@
     "reduce_fan_stop_start_freq": [
         "1"
     ],
-    "setting_id": "GFSG50",
     "filament_id": "GFG98",
+    "setting_id": "GFSG50",
     "filament_flow_ratio": [
         "1.00"
     ],

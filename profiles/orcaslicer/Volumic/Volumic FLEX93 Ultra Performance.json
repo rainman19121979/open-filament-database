@@ -28,7 +28,7 @@
         "30"
     ],
     "filament_max_volumetric_speed": [
-        "20"
+        "16"
     ],
     "overhang_fan_speed": [
         "100"
@@ -90,8 +90,8 @@
     "additional_cooling_fan_speed": [
         "70"
     ],
-    "setting_id": "GFSR99",
     "filament_id": "GFU99",
+    "setting_id": "GFSR99",
     "filament_flow_ratio": [
         "1.00"
     ],
@@ -109,6 +109,7 @@
         "EXO65 IDRE MIRROR MODE (0.4 nozzle)",
         "SH65 IDRE (0.4 nozzle)",
         "SH65 IDRE COPY MODE (0.4 nozzle)",
-        "SH65 IDRE MIRROR MODE (0.4 nozzle)"
+        "SH65 IDRE MIRROR MODE (0.4 nozzle)",
+        "VS30SC2 Performance (0.4 nozzle)"
     ]
 }
