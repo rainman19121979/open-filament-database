@@ -162,6 +162,10 @@
         "0.01"
     ],
     "compatible_printers": [
+        "Creality K2 0.2 nozzle",
+        "Creality K2 0.4 nozzle",
+        "Creality K2 0.6 nozzle",
+        "Creality K2 0.8 nozzle",
         "Creality K2 Plus 0.2 nozzle",
         "Creality K2 Plus 0.4 nozzle",
         "Creality K2 Plus 0.6 nozzle",
