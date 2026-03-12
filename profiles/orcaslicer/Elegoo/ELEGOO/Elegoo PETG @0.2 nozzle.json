@@ -1,6 +1,6 @@
 {
     "type": "filament",
-    "name": "Elegoo PETG PRO @ECC2",
+    "name": "Elegoo PETG @0.2 nozzle",
     "from": "system",
     "instantiation": "true",
     "cool_plate_temp": [
@@ -64,7 +64,7 @@
         "1.75"
     ],
     "filament_max_volumetric_speed": [
-        "8"
+        "11"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -115,7 +115,7 @@
         "Cool Plate"
     ],
     "nozzle_temperature_initial_layer": [
-        "240"
+        "250"
     ],
     "full_fan_speed_layer": [
         "0"
@@ -136,7 +136,7 @@
         "; Filament start gcode\n"
     ],
     "nozzle_temperature": [
-        "240"
+        "250"
     ],
     "temperature_vitrification": [
         "70"
@@ -148,13 +148,20 @@
         "230"
     ],
     "filament_id": "EPETGB00",
-    "setting_id": "EPETGPROECC2",
+    "setting_id": "EPETG00020",
     "pressure_advance": [
         "0.024"
     ],
     "compatible_printers": [
-        "Elegoo Centauri Carbon 2 0.4 nozzle",
-        "Elegoo Centauri Carbon 2 0.6 nozzle",
-        "Elegoo Centauri Carbon 2 0.8 nozzle"
+        "Elegoo Centauri 0.2 nozzle",
+        "Elegoo Centauri Carbon 0.2 nozzle",
+        "Elegoo Centauri Carbon 2 0.2 nozzle",
+        "Elegoo Neptune 4 0.2 nozzle",
+        "Elegoo Neptune 4 Pro 0.2 nozzle",
+        "Elegoo Neptune 4 Plus 0.2 nozzle",
+        "Elegoo Neptune 4 Max 0.2 nozzle",
+        "Elegoo Neptune 3 Pro 0.2 nozzle",
+        "Elegoo Neptune 3 Plus 0.2 nozzle",
+        "Elegoo Neptune 3 Max 0.2 nozzle"
     ]
 }

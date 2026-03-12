@@ -1,6 +1,6 @@
 {
     "type": "filament",
-    "name": "Elegoo PETG PRO @ECC2",
+    "name": "Elegoo PETG Translucent @ECC2",
     "from": "system",
     "instantiation": "true",
     "cool_plate_temp": [
@@ -28,7 +28,7 @@
         "70"
     ],
     "overhang_fan_threshold": [
-        "50%"
+        "10%"
     ],
     "overhang_fan_speed": [
         "90"
@@ -64,7 +64,7 @@
         "1.75"
     ],
     "filament_max_volumetric_speed": [
-        "8"
+        "10"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -115,13 +115,13 @@
         "Cool Plate"
     ],
     "nozzle_temperature_initial_layer": [
-        "240"
+        "255"
     ],
     "full_fan_speed_layer": [
         "0"
     ],
     "fan_max_speed": [
-        "40"
+        "35"
     ],
     "fan_min_speed": [
         "10"
@@ -136,7 +136,7 @@
         "; Filament start gcode\n"
     ],
     "nozzle_temperature": [
-        "240"
+        "255"
     ],
     "temperature_vitrification": [
         "70"
@@ -148,7 +148,7 @@
         "230"
     ],
     "filament_id": "EPETGB00",
-    "setting_id": "EPETGPROECC2",
+    "setting_id": "EPETGTRANSECC2",
     "pressure_advance": [
         "0.024"
     ],

@@ -1,6 +1,6 @@
 {
     "type": "filament",
-    "name": "Elegoo PLA Matte @ECC2",
+    "name": "Elegoo PLA Basic @ECC2",
     "from": "system",
     "instantiation": "true",
     "activate_air_filtration": [
@@ -34,10 +34,10 @@
         "80"
     ],
     "fan_max_speed": [
-        "80"
+        "100"
     ],
     "fan_min_speed": [
-        "60"
+        "50"
     ],
     "filament_cost": [
         "0"
@@ -58,7 +58,7 @@
         "0"
     ],
     "filament_max_volumetric_speed": [
-        "16"
+        "21"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -136,7 +136,7 @@
         "1"
     ],
     "slow_down_layer_time": [
-        "6"
+        "4"
     ],
     "slow_down_min_speed": [
         "20"
@@ -145,10 +145,10 @@
         "45"
     ],
     "textured_plate_temp": [
-        "65"
+        "60"
     ],
     "textured_plate_temp_initial_layer": [
-        "65"
+        "60"
     ],
     "compatible_printers": [
         "Elegoo Centauri Carbon 2 0.4 nozzle",
@@ -165,13 +165,13 @@
         "190"
     ],
     "nozzle_temperature_range_high": [
-        "240"
+        "230"
     ],
     "additional_cooling_fan_speed": [
         "0"
     ],
     "filament_id": "EPLAB00",
-    "setting_id": "EPLAMECC2",
+    "setting_id": "EPLABASICECC2",
     "pressure_advance": [
         "0.024"
     ]

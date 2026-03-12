@@ -88,7 +88,7 @@
         "0"
     ],
     "filament_type": [
-        "PLA-CF"
+        "PLA"
     ],
     "filament_vendor": [
         "Elegoo"
@@ -170,7 +170,7 @@
     "additional_cooling_fan_speed": [
         "0"
     ],
-    "filament_id": "EPLACFB00",
+    "filament_id": "EPLAB00",
     "setting_id": "EPLACFECC2",
     "pressure_advance": [
         "0.024"
