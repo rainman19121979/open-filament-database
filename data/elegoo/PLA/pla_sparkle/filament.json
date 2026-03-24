@@ -8,6 +8,11 @@
             "generic_id": "GFL99",
             "id": "EPLAB00",
             "profile_name": "Elegoo PLA Sparkle"
+        },
+        "orcaslicer": {
+            "profile_name": "Elegoo PLA Sparkle",
+            "id": "EPLAB00",
+            "generic_id": "GFL99"
         }
     }
 }

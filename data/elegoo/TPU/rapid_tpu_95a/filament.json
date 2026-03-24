@@ -8,6 +8,11 @@
             "generic_id": "GFU99",
             "id": "ETPUB00",
             "profile_name": "Elegoo RAPID TPU 95A"
+        },
+        "orcaslicer": {
+            "profile_name": "Elegoo RAPID TPU 95A",
+            "id": "ETPUB00",
+            "generic_id": "GFU99"
         }
     }
 }

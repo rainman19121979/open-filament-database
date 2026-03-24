@@ -8,6 +8,11 @@
             "generic_id": "GFG99",
             "id": "EPETGB00",
             "profile_name": "Elegoo PETG-CF"
+        },
+        "orcaslicer": {
+            "profile_name": "Elegoo PETG-CF",
+            "id": "EPETGB00",
+            "generic_id": "GFG99"
         }
     }
 }

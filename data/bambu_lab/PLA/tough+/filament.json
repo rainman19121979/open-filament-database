@@ -12,7 +12,9 @@
             "profile_name": "Bambu PLA Tough+"
         },
         "orcaslicer": {
-            "profile_name": "Bambu PLA Tough+"
+            "profile_name": "Bambu PLA Tough+",
+            "id": "GFA10",
+            "generic_id": "GFL99"
         }
     }
 }

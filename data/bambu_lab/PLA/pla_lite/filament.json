@@ -11,6 +11,11 @@
             "generic_id": "GFL99",
             "id": "GFA18",
             "profile_name": "Bambu PLA Lite"
+        },
+        "orcaslicer": {
+            "profile_name": "Bambu PLA Lite",
+            "id": "GFA18",
+            "generic_id": "GFL99"
         }
     }
 }
